@@ -1,0 +1,59 @@
+body{
+   
+ 
+}
+.container2{
+    background: rgb(204, 4, 4);
+   
+    
+}
+/*.links{
+    color: rgba(0, 0, 0, 0.918);
+    margin-left: 15%;
+    font-weight: bold;
+}
+
+.links a{
+    background-color: rgb(31, 116, 6);
+    padding: 20px;
+    text-decoration: solid;
+    border-color: black;
+    border-radius: 7px;
+}
+.links a:hover{
+    background-color: rgba(105, 87, 4, 0.815);
+    color: rgb(221, 209, 32);
+}
+
+
+
+
+
+
+
+/*login section start
+*/
+.header{
+    color: rgba(105, 87, 4, 0.815);
+    margin: 5%;
+    margin-left: 30%;
+}
+
+.formco{
+    width: 600px;
+    height: 600px;
+    align-content: center;
+    background-color:antiquewhite;
+    margin-left: 28%;
+    border-radius: 10px;
+}
+.formco form{
+    margin-left: 20%;
+    padding: 15px;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+}
+.formco a{
+    text-decoration: none;
+}
